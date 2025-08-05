@@ -1,0 +1,152 @@
+User: fee
+Intent: fees
+Bot: The total tuition fee is ₹1,20,000 per year. Scholarships are offered to the top 10% scorers.
+
+User: contact
+Intent: contact
+Bot: Email: mcaadmissions@spcputtur.ac.in | Phone: +91-9480010171
+
+User: uniform
+Intent: uniform
+Bot: Yes, students are expected to wear the college uniform on all working days, which includes a formal shirt and trousers.
+
+User: sports
+Intent: sports
+Bot: The college has facilities for cricket, football, badminton, and table tennis. Annual sports day is held in January.
+
+User: specilization
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, deadlines, programs, contact info, or installments.
+
+User: specialization
+Intent: programs
+Bot: We offer MCA programs with specializations in Artificial Intelligence, Cybersecurity, and Data Science.
+
+User: location
+Intent: location
+Bot: The college is located in Puttur, Karnataka, near the city center and easily accessible.
+
+User: internships
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: internships
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: hostel
+Intent: hostel
+Bot: Separate hostels for boys and girls with Wi-Fi, 24x7 security, and hygienic food.
+
+User: canteen
+Intent: canteen
+Bot: The canteen serves affordable and nutritious meals and snacks throughout the day.
+
+User: cultural
+Intent: cultural
+Bot: Cultural activities such as fests, ethnic days, and talent shows are organized regularly.
+
+User: internships
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: intern
+Intent: internships
+Bot: Internships are provided in collaboration with industry partners during the final semester.
+
+User: uniform
+Intent: uniform
+Bot: Yes, wearing the college uniform is mandatory on all working days.
+
+User: colordress
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: dresscode
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: dress
+Intent: uniform
+Bot: Yes, wearing the college uniform is mandatory on all working days.
+
+User: canteen
+Intent: canteen
+Bot: The canteen serves affordable and nutritious meals and snacks throughout the day.
+
+User: canteen
+Intent: canteen
+Bot: The canteen serves affordable and nutritious meals and snacks throughout the day.
+
+User: food
+Intent: canteen
+Bot: The canteen serves affordable and nutritious meals and snacks throughout the day.
+
+User: uniform
+Intent: uniform
+Bot: Yes, wearing the college uniform is mandatory on all working days.
+
+User: fees
+Intent: fees
+Bot: The total tuition fee is ₹1,20,000 per year. Scholarships are offered to the top 10% scorers.
+
+User: course
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: course
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: program
+Intent: course
+Bot: We offer MCA programs with specializations in Artificial Intelligence, Cybersecurity, and Data Science.
+
+User: timings
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: timings
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: deadlines
+Intent: deadlines
+Bot: MCA admissions close on September 30, 2025. Late applications are accepted until October 15 with a late fee.
+
+User: installments
+Intent: None
+Bot: I'm here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements, or more!
+
+User: uniform
+Intent: uniform
+Bot: Yes, wearing the college uniform is mandatory on all working days.
+
+User: timings
+Intent: None
+Bot: I am here to help with MCA admissions – ask me about fees, eligibility, programs, campus facilities, placements,installments,uniform,timings,specification,cultural,sports,internships,location,hostel,canteen!
+
+User: placements
+Intent: placements
+Bot: Top companies like Infosys, Wipro, and TCS recruit from our campus annually.
+
+User: hour
+Intent: timings
+Bot: College operates from 9:00 AM to 4:00 PM, Monday to Friday.
+
+User: fest
+Intent: cultural
+Bot: Cultural activities such as fests, ethnic days, and talent shows are organized regularly.
+
+User: intern
+Intent: internships
+Bot: Internships are provided in collaboration with industry partners during the final semester.
+
+User: uniform
+Intent: uniform
+Bot: Yes, wearing the college uniform is mandatory on all working days.
+
+User: cultural
+Intent: cultural
+Bot: Cultural activities such as fests, ethnic days, and talent shows are organized regularly.
+
